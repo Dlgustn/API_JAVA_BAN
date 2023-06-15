@@ -15,6 +15,10 @@ public class Gugudan {
 			System.out.println(3 * i);
 		}
 		
+		for (int i = 1; i <= 9; i++) {
+			System.out.println(4 * i);
+		}
+		
 	}
 
 }
